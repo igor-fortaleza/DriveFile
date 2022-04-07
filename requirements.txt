@@ -1,0 +1,4 @@
+pymysql
+mysql-connector-python
+werkzeug
+flask_api
